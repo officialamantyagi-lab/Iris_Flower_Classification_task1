@@ -79,7 +79,7 @@ Displays the number of correct and incorrect predictions for each Iris species.
 
 ### 📈 Predicted Species Distribution
 
-![Predicted Species Distribution](Prediction_Distribution.png)
+![Predicted Species Distribution](Prediction_Species_Distribution.png)
 
 Shows the number of flowers predicted for each Iris species.
 
